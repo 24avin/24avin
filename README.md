@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computers and Accounts
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on avin.dj.raj@gmail.com
+- 📫 You can reach me on avin.raj46@gmail.com
 
 <!---
 24avin/24avin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
